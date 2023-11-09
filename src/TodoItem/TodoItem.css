@@ -1,6 +1,9 @@
 body {
   perspective: 800px;
 }
+.text {
+  overflow-wrap: anywhere;
+}
 .itemns-textos {
   color: rgb(0, 0, 0);
   list-style: none;
